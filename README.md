@@ -26,7 +26,7 @@ cd django-react-test
 
 ```bash
 python -m venv venv
-source venv\bin\activate
+source venv/bin/activate
 ```
 
 ### 3. Install required packages
