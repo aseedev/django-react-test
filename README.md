@@ -6,7 +6,7 @@
 
 - **Python 3.9+**
 - **Node.js 18+**
-- **pnpm** (install with: `npm install -g pnpm`)
+- **npm**
 - **git**
 
 ### Clone the repository:
